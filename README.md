@@ -1,5 +1,5 @@
-## flutter-GitConnect ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter-GitConnect?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter-GitConnect) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter-GitConnect?style=social) 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/TheAlphamerc/flutter-GitConnect) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Thealphamerc/flutter-GitConnect) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter-GitConnect)  ![GitHub issues](https://img.shields.io/github/issues-raw/Thealphamerc/flutter-GitConnect) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter-GitConnect) 
+## flutter-GitConnect ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/ramonaoldf/flutter-GitConnect?style=social)](https://github.com/login?return_to=%2Framonaoldf%2Fflutter-GitConnect) ![GitHub forks](https://img.shields.io/github/forks/ramonaoldf/flutter-GitConnect?style=social) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ramonaoldf/flutter-GitConnect) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ramonaoldf/flutter-GitConnect) ![GitHub last commit](https://img.shields.io/github/last-commit/ramonaoldf/flutter-GitConnect)  ![GitHub issues](https://img.shields.io/github/issues-raw/ramonaoldf/flutter-GitConnect) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ramonaoldf/flutter-GitConnect) 
 
 Github mobile app built in flutter framwork.
 
@@ -12,19 +12,19 @@ App preview:- [Youtube](https://youtu.be/28Dcqr89N1g)
 
 Home                |  Inbox               | Search                |  Repositries
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter-GitConnect/blob/master/screenshots/screenshot_1.jpg?raw=true) |![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_4.jpg?raw=true)|
+![](https://github.com/ramonaoldf/flutter-GitConnect/blob/master/screenshots/screenshot_1.jpg?raw=true) |![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_3.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_4.jpg?raw=true)|
 
 Issues         | People       |   Profile               |  Repository
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_5.jpg?raw=true) |![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_6.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_7.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_8.jpg?raw=true)|
+![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_5.jpg?raw=true) |![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_6.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_7.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_8.jpg?raw=true)|
 
 Gists                  | Followers       |   Settings      |     About us
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_9.jpg?raw=true) |![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_10.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_11.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter-GitConnect//blob/master/screenshots/screenshot_12.jpg?raw=true)|
+![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_9.jpg?raw=true) |![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_10.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_11.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter-GitConnect//blob/master/screenshots/screenshot_12.jpg?raw=true)|
 
 Profile (Light Theme)         |  Home (Light Theme)              |   Inbox (Light Theme)     | Search (Light Theme)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter-GitConnect/blob/master/screenshots/screenshot_13.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter-GitConnect/blob/master/screenshots/screenshot_14.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter-GitConnect/blob/master/screenshots/screenshot_15.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter-GitConnect/blob/master/screenshots/screenshot_16.jpg?raw=true)
+![](https://github.com/ramonaoldf/flutter-GitConnect/blob/master/screenshots/screenshot_13.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter-GitConnect/blob/master/screenshots/screenshot_14.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter-GitConnect/blob/master/screenshots/screenshot_15.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter-GitConnect/blob/master/screenshots/screenshot_16.jpg?raw=true)
 
 
 
@@ -237,7 +237,7 @@ Profile (Light Theme)         |  Home (Light Theme)              |   Inbox (Ligh
 ## Contributing
 
 If you wish to contribute a change to any of the existing feature or add new in this repo,
-Send a [pull request](https://github.com/TheAlphamerc/flutter-GitConnect/pulls). I welcome and encourage all pull requests. It usually will take me within 24 hours to respond to any issue or request.
+Send a [pull request](https://github.com/ramonaoldf/flutter-GitConnect/pulls). I welcome and encourage all pull requests. It usually will take me within 24 hours to respond to any issue or request.
 
 ## Created & Maintained By
 
